@@ -1,6 +1,6 @@
 ## Introduction
 
-This Python package provides a template for implementing swarm controllers within a Gazebo simulation environment integrated with PX4 and ROS2. It is based on [px4_swarm_controller](https://github.com/PX4/px4_swarm_controller) with several modifications—some functionalities have been changed and new features added—to better suit your swarm experimentation needs.
+This Python package provides a template for implementing swarm controllers within a Gazebo simulation environment integrated with PX4 and ROS2. It is based on the px4_swarm_controller package with several modifications—some functionalities have been changed and new features added—to better suit your swarm experimentation needs.
 
 ## Features
 
