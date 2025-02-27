@@ -1,0 +1,21 @@
+{
+  "swarm": {
+    "1": {
+      "model": "gz_x500",
+      "initial_pose": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "is_leader": true
+    },
+    "2": {
+      "model": "gz_x500",
+      "initial_pose": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "is_leader": false
+    }
+  },
+  "trajectory": "waypoints_up_and_down.yaml"
+}
